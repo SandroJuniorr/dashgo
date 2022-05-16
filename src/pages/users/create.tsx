@@ -1,5 +1,5 @@
 import { Box, Button, ButtonGroup, Divider, Flex, Heading, HStack, SimpleGrid, VStack } from "@chakra-ui/react";
-import { Input } from "../../components/Fortm/Input";
+import { Input } from "../../components/Form/Input";
 import { Header } from "../../components/Header";
 import { Sidebar } from "../../components/Sidebar";
 

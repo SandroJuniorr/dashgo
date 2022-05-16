@@ -66,7 +66,7 @@ export default function UserList(){
                                 </Box>
                             </Td>
                             <Td>
-                                04 de abril,2022
+                                04 de abril, 2022
                             </Td>
                              <Td>
                              <Button

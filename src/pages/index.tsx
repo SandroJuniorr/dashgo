@@ -1,6 +1,6 @@
 import { Button, Flex, Stack } from '@chakra-ui/react'
 import Head from 'next/head'
-import { Input } from '../components/Fortm/Input'
+import { Input } from '../components/Form/Input'
 
 export default function SignIn() {
   return (
