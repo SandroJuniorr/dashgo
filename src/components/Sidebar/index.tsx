@@ -9,9 +9,10 @@ export function Sidebar() {
       <Stack spacing="12" align="flex-start">
         <NavSection name="GERAL">
         <NavLink name="Dashboard" icon={RiDashboardLine}/>
+        <NavLink name=" Usuários" icon={RiContactsLine}/>
         </NavSection>
         <NavSection name="AUTOMAÇÂO">
-        <NavLink name=" Usuários" icon={RiContactsLine}/>
+        <NavLink name=" Formularios" icon={RiContactsLine}/>
         </NavSection>
       </Stack>
     </Box>
