@@ -9,9 +9,9 @@ export function NavLink({name,icon, ...rest}:NavLinkProps ){
     return(
         <Link display="flex" alignItems="center" {...rest}>
               <Icon as={icon} fontSize="20" />
-              <Text ml="4" fontWeight="medium">
+              {/* <Text ml="4" fontWeight="medium">
                {name}
-              </Text>
+              </Text> */ name}
             </Link>
     )
 }
